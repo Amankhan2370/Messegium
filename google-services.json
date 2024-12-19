@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103512201849",
+    "firebase_url": "https://messengerbymargs-asian-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "messengerbymargs-asian",
+    "storage_bucket": "messengerbymargs-asian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103512201849:android:94c69edf1b88ffeaf552a8",
+        "android_client_info": {
+          "package_name": "com.margsapp.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103512201849-e1u7fci3m0kpaaduemoj9rulrhaai6m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.margsapp.messenger",
+            "certificate_hash": "d605b7676c3b2d3b3acc00885f2e7281e816f85b"
+          }
+        },
+        {
+          "client_id": "103512201849-u02rekekhtn7r4nuj8uqpku32qd57bh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRvB-S_vYl49XrsdamAsgvkhr20KqEF70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103512201849-u02rekekhtn7r4nuj8uqpku32qd57bh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
